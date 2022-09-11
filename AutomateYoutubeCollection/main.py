@@ -198,7 +198,7 @@ def updatecomments(comment_df,thumbnail, channel_name, video_id):
 
 if __name__ == "__main__":
     #app.run(host='127.0.0.1', port=8001, debug=True)
-	app.run(debug=True, port=5004)
+	app.run(debug=True)
     # getChannelInfo(channel_url)
 
 
