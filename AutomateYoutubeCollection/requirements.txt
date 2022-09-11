@@ -2,7 +2,7 @@ google-api-python-client
 pandas
 snowflake.connector.python
 snowflake.connector.python[pandas]
-sqlalchemy==1.4.40'
+sqlalchemy==1.4.40
 logging
 boto3==1.24.65
 botocore==1.27.65
