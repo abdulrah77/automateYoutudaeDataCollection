@@ -12,7 +12,7 @@ import time
 import snowflake.connector as sf
 import base64
 from sqlalchemy import create_engine
-import logging
+# import logging
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
