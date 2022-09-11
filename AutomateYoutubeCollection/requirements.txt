@@ -5,4 +5,12 @@ bs4
 requests
 flask_cors
 flask
-re
+googleapiclient.discovery
+pandas
+boto3
+time
+snowflake.connector.python
+snowflake.connector.python[pandas]
+base64
+sqlalchemy
+logging

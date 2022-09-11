@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager
 import requests
 import urllib.parse as parse
 from googleapiclient.discovery import build
