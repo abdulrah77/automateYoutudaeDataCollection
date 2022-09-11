@@ -1,0 +1,8 @@
+webdriver_manager
+selenium
+urllib
+bs4
+requests
+flask_cors
+flask
+re
