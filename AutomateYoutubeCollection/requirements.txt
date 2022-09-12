@@ -13,4 +13,5 @@ s3transfer==0.6.0
 selenium==4.4.3
 urllib3==1.26.11
 Jinja2
+gunicorn==20.0.4
 
